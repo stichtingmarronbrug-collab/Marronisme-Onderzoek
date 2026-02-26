@@ -1,3 +1,7 @@
 streamlit
 pandas
 openpyxl
+openai
+python-docx
+reportlab
+matplotlib
